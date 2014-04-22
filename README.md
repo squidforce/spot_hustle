@@ -14,4 +14,4 @@ Checklist:
 - Incorporate the algorithm into a simple one-button, one-function app.
     * Integrate it with the Android camera interface.
 - It should be fast, these rounds fly by and we can't be waitin' 5 seconds for it to do it's thang.
-- It should be done by 29th March!
+- It should be done by ~~29th March!~~ **before next squidforce gathering!**
